@@ -6,3 +6,5 @@ class HomePageView(ListView):
     model = Organization
     context_object_name = 'home'
     template_name = 'home.html'
+
+class Organization
